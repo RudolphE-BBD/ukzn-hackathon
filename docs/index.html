@@ -141,20 +141,37 @@
   </article>
 </main>
 
+<form name="registration" action="https://postman-echo.com/post" target="_blank" method="POST">
+  <h2>Registration Form</h2>
+  <section>
+    <label for="name">Name</label>
+    <input id="name" name="name" type="text"/><br>
+    <label for="email">Email Address</label>
+    <input id="email" name="email" type="email"/><br>
+    <label for="tel">Telephone number</label>
+    <input id="tel" name="tel" type="tel"/><br>
+  </section>
+  <section>
+    <label for="interests">Interests</label>
+    <input id="interests" name="interests"/>
+  </section>
+  <section>
+    <input type="submit" value="Submit Form"/>
+  </section>
+</form>
+
 <footer>
   Made with <span class="red">♥&#9829;♥</span> by <strong>the ATC Team</strong>
   from <a href="https://bbdsoftware.com/grad-bursar-programmes/">BBD Software</a>
 </footer>
 
-<section id="demo-inline">
-
-</section>
+<section id="demo-inline"></section>
 <script>
   document.getElementById("demo-inline").innerHTML = "Inline JavaScript inserted this text!";
 </script>
-<section id="demo-script">
-  
-</section>
-<script src="index.js"/>
+
+<section id="demo-script"></section>
+<script src="index.js"></script>
+
 </body>
 </html>
