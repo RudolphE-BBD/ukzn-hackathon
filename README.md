@@ -3,6 +3,10 @@ Repository for UKZN Hackathon Content
 
 * Served at: https://rudolphe-bbd.github.io/ukzn-hackathon/ 
 * Repository is at: https://github.com/RudolphE-BBD/ukzn-hackathon
+* Discord Server: https://discord.gg/swtXt4Tj
+
+The discord server is for questions throughout the day, please be aware that 
+there may be some delays in answers. 
 
 ## Links / Tutorials
 
