@@ -2,7 +2,7 @@
 Repository for UKZN Hackathon Content
 
 * Served at: https://rudolphe-bbd.github.io/ukzn-hackathon/ 
-* Repository is at: https://github.com/RudolphE-BBD/ukzn-hackathon
+* The repository can be found at: https://github.com/RudolphE-BBD/ukzn-hackathon
 * Discord Server: https://discord.gg/swtXt4Tj
 
 The discord server is for questions throughout the day, please be aware that 
@@ -43,3 +43,11 @@ there may be some delays in answers.
 ## General Repository for all things web
 
 https://developer.mozilla.org/
+
+# TODO 
+
+Article to find: Javascript VAR hoisting and why not to use it
+
+
+https://restcountries.com/v3.1/all
+https://firebase.google.com/codelabs/firestore-web#0
