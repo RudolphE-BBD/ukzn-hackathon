@@ -12,6 +12,11 @@ body {
   color: red;
 }
 
+canvas {
+  border: 1px solid black;
+  width: 90%;
+}
+
 /*
 label {
   display: inline-block;
